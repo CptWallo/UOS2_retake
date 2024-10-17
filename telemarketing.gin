@@ -1,0 +1,7 @@
+ConfigurableRandomForestClassifier.n_estimators = 10
+ConfigurableRandomForestClassifier.max_depth = 4
+ConfigurableRandomForestClassifier.min_samples_split = 2
+ConfigurableRandomForestClassifier.min_samples_leaf = 1
+ConfigurableRandomForestClassifier.max_features = 'sqrt'
+ConfigurableRandomForestClassifier.bootstrap = True
+ConfigurableRandomForestClassifier.random_state = 42
